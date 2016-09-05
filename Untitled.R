@@ -6,3 +6,6 @@ b
 
 c <- 'hallo'
 c
+
+d <- 'polle'
+d
